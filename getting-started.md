@@ -3,6 +3,7 @@
 clone the repo
 
 ## Prereqs
+Install the following:
 * [uv](https://docs.astral.sh/uv/getting-started/installation/#__tabbed_1_1)
 * [npm](https://screenshot.googleplex.com/7ELY7kaX8xHZiHJ)
 ## Start the MCP Server
