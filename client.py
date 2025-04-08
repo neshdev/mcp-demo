@@ -11,7 +11,7 @@ import keras_hub
 
 
 os.environ["KAGGLE_USERNAME"] = "neshdev"
-os.environ["KAGGLE_KEY"] = "091209c35fb9d666546d12821b073878"
+# os.environ["KAGGLE_KEY"] = ""
 
 
 gemma_lm = keras_hub.models.Gemma3CausalLM.from_preset("gemma3_1b")  # Initialize model before client start
